@@ -200,7 +200,7 @@ student_selector/
 
 A short demonstration of the application is provided below.
 
-**Demo video:** [Add your demo video link here]
+**Demo video:** [Watch the demo video](https://drive.google.com/file/d/1zl0cUr-oSHOnU3Jp52I91y9r0tvi7GI4/view?usp=drive_link)
 
 The demonstration covers:
 

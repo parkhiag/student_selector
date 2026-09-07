@@ -4,7 +4,7 @@ A lightweight student data pipeline and selection dashboard built with **Python,
 
 The application allows users to upload a raw student CSV, automatically clean and normalize the data, review the processed records, manage student eligibility, filter candidates by minimum total score, and export the final shortlist as a CSV file.
 
-Live Link : https://student-selector.streamlit.app/
+## Live Link : https://student-selector.streamlit.app/
 ---
 
 ## Features
